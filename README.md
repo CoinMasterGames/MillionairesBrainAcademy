@@ -1,2 +1,2 @@
-# millionairesbrainacademy
+# MillionairesBrainAcademy
 Millionaires Brain Academy
